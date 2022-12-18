@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: hugo-geekdoc
 exclude: ["local"]
 permalink: /:categories/:year/:title.html
 markdown: redcarpet
